@@ -4,7 +4,7 @@
   Feito na trilha ignite de reactjs da rocketseat, um aplicativo simples de controle de finaças utilizando o basico do react. 
 </p>
 
-<img align="right" src="./src/assets/logo.svg" width="35%" alt="dt money">
+<img align="right" src="./src/assets/Logo.svg" width="35%" alt="dt money">
 
 ## Tópicos 
 
